@@ -5,6 +5,7 @@
 
 int main()
 {
+	// Print progress bar
 	system("clear");
 	
 	struct winsize w;
