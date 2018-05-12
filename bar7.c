@@ -8,9 +8,9 @@ int main()
 	system("clear");
 	
 	struct winsize w;
-    ioctl(STDOUT_FILENO, TIOCGWINSZ, &w);
+        ioctl(STDOUT_FILENO, TIOCGWINSZ, &w);
     
-    int barWidth = w.ws_col - 10;
+        int barWidth = w.ws_col - 10;
 
    	float progress = 0.0;
    	
