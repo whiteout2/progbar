@@ -1,4 +1,4 @@
 # progbar
 Progress bars
 
-!(https://j.gifs.com/rRWGqW.gif)
+![progbar](https://j.gifs.com/rRWGqW.gif)
